@@ -1,0 +1,2270 @@
+[
+    {
+        "Flag": "https://www.geonames.org/flags/x/ad.gif",
+        "CountryName": "Andorra",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ae.gif",
+        "CountryName": "United Arab Emirates",
+        "Currency": "Arab Emirates Dirham",
+        "Code": "AED",
+        "Symbol": "DH",
+        "SymbolImage": "",
+        "Rate": 3.6725
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/af.gif",
+        "CountryName": "Afghanistan",
+        "Currency": "Afghanistan Afghani",
+        "Code": "AFN",
+        "Symbol": "؋",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol1547.gif",
+        "Rate": 76.283988406
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ag.gif",
+        "CountryName": "Antigua and Barbuda",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2.7058388195
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ai.gif",
+        "CountryName": "Anguilla",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2.7058388195
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/al.gif",
+        "CountryName": "Albania",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/am.gif",
+        "CountryName": "Armenia",
+        "Currency": "Armenian dram",
+        "Code": "AMD",
+        "Symbol": "֏",
+        "SymbolImage": "",
+        "Rate": 401.3709055544
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ao.gif",
+        "CountryName": "Angola",
+        "Currency": "Angolan kwanza",
+        "Code": "AOA",
+        "Symbol": "Kz",
+        "SymbolImage": "",
+        "Rate": 921.1530378999
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/aq.gif",
+        "CountryName": "Antarctica",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ar.gif",
+        "CountryName": "Argentina",
+        "Currency": "Argentina Peso",
+        "Code": "ARS",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1049.7180265101
+    },
+    {
+        "Flag1": "https://www.geonames.org/flags/x/as.gif",
+        "CountryName": "American Samoa",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/at.gif",
+        "CountryName": "Austria",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/au.gif",
+        "CountryName": "Australia",
+        "Currency": "Australia Dollar",
+        "Code": "AUD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.5987354068
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/aw.gif",
+        "CountryName": "Aruba",
+        "Currency": "Aruba Guilder",
+        "Code": "AWG",
+        "Symbol": "ƒ",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol402.gif",
+        "Rate": 1.79
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ax.gif",
+        "CountryName": "Aland Islands",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/az.gif",
+        "CountryName": "Azerbaijan",
+        "Currency": "Azerbaijan Manat",
+        "Code": "AZN",
+        "Symbol": "₼",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8380.gif",
+        "Rate": 1.7000216596
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ba.gif",
+        "CountryName": "Bosnia and Herzegovina",
+        "Currency": "Bosnia and Herzegovina Convertible Mark",
+        "Code": "BAM",
+        "Symbol": "KM",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol75-77.gif",
+        "Rate": 1.874998627
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bb.gif",
+        "CountryName": "Barbados",
+        "Currency": "Barbados Dollar",
+        "Code": "BBD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bd.gif",
+        "CountryName": "Bangladesh",
+        "Currency": "Bangladeshi taka",
+        "Code": "BDT",
+        "Symbol": "৳",
+        "SymbolImage": "",
+        "Rate": 122.0473119533
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/be.gif",
+        "CountryName": "Belgium",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bf.gif",
+        "CountryName": "Burkina Faso",
+        "Currency": "West African CFA franc",
+        "Code": "XOF",
+        "Symbol": "F.CFA",
+        "SymbolImage": "",
+        "Rate": 628.8473304857
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bg.gif",
+        "CountryName": "Bulgaria",
+        "Currency": "Bulgaria Lev",
+        "Code": "BGN",
+        "Symbol": "лв",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol1083-1074.gif",
+        "Rate": 1.874998627
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bh.gif",
+        "CountryName": "Bahrain",
+        "Currency": "Bahraini dinar",
+        "Code": "BHD",
+        "Symbol": ".د.ب",
+        "SymbolImage": "",
+        "Rate": 0.376
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bi.gif",
+        "CountryName": "Burundi",
+        "Currency": "Burundian franc",
+        "Code": "BIF",
+        "Symbol": "FBu",
+        "SymbolImage": "",
+        "Rate": 2931.7142999932
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bj.gif",
+        "CountryName": "Benin",
+        "Currency": "West African CFA franc",
+        "Code": "XOF",
+        "Symbol": "F.CFA",
+        "SymbolImage": "",
+        "Rate": 628.8473304857
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bl.gif",
+        "CountryName": "Saint Barthelemy",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bm.gif",
+        "CountryName": "Bermuda",
+        "Currency": "Bermuda Dollar",
+        "Code": "BMD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bn.gif",
+        "CountryName": "Brunei",
+        "Currency": "Brunei Darussalam Dollar",
+        "Code": "BND",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.3518262841
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bo.gif",
+        "CountryName": "Bolivia",
+        "Currency": "Bolivia Bolíviano",
+        "Code": "BOB",
+        "Symbol": "$b",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36-98.gif",
+        "Rate": 6.8944300255
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bq.gif",
+        "CountryName": "Bonaire, Saint Eustatius and Saba",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/br.gif",
+        "CountryName": "Brazil",
+        "Currency": "Brazil Real",
+        "Code": "BRL",
+        "Symbol": "R$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol82-36.gif",
+        "Rate": 5.8950175019
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bs.gif",
+        "CountryName": "Bahamas",
+        "Currency": "Bahamas Dollar",
+        "Code": "BSD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bt.gif",
+        "CountryName": "Bhutan",
+        "Currency": "Bhutanese ngultrum",
+        "Code": "BTN",
+        "Symbol": "Nu.",
+        "SymbolImage": "",
+        "Rate": 86.5669713798
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bv.gif",
+        "CountryName": "Bouvet Island",
+        "Currency": "Norway Krone",
+        "Code": "NOK",
+        "Symbol": "kr",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol107-114.gif",
+        "Rate": 11.2783937769
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bw.gif",
+        "CountryName": "Botswana",
+        "Currency": "Botswana Pula",
+        "Code": "BWP",
+        "Symbol": "P",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol80.gif",
+        "Rate": 13.8976915652
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/by.gif",
+        "CountryName": "Belarus",
+        "Currency": "Belarus Ruble",
+        "Code": "BYN",
+        "Symbol": "Br",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol66-114.gif",
+        "Rate": 3.2700847987
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/bz.gif",
+        "CountryName": "Belize",
+        "Currency": "Belize Dollar",
+        "Code": "BZD",
+        "Symbol": "BZ$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol66-90-36.gif",
+        "Rate": 2.0172876632
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ca.gif",
+        "CountryName": "Canada",
+        "Currency": "Canada Dollar",
+        "Code": "CAD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.439806014
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cc.gif",
+        "CountryName": "Cocos Islands",
+        "Currency": "Australia Dollar",
+        "Code": "AUD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.5987354068
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cd.gif",
+        "CountryName": "Democratic Republic of the Congo",
+        "Currency": "Congolese franc",
+        "Code": "CDF",
+        "Symbol": "FC",
+        "SymbolImage": "",
+        "Rate": 2854.98958174
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cf.gif",
+        "CountryName": "Central African Republic",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cg.gif",
+        "CountryName": "Republic of the Congo",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ch.gif",
+        "CountryName": "Switzerland",
+        "Currency": "Switzerland Franc",
+        "Code": "CHF",
+        "Symbol": "CHF",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol67-72-70.gif",
+        "Rate": 0.9060066547
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ci.gif",
+        "CountryName": "Ivory Coast",
+        "Currency": "West African CFA franc",
+        "Code": "XOF",
+        "Symbol": "F.CFA",
+        "SymbolImage": "",
+        "Rate": 628.8473304857
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ck.gif",
+        "CountryName": "Cook Islands",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.7662862293
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cl.gif",
+        "CountryName": "Chile",
+        "Currency": "Chile Peso",
+        "Code": "CLP",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 987.368342638
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cm.gif",
+        "CountryName": "Cameroon",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cn.gif",
+        "CountryName": "China",
+        "Currency": "China Yuan Renminbi",
+        "Code": "CNY",
+        "Symbol": "¥",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol165.gif",
+        "Rate": 7.2447553748
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/co.gif",
+        "CountryName": "Colombia",
+        "Currency": "Colombia Peso",
+        "Code": "COP",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 4194.0523153249
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cr.gif",
+        "CountryName": "Costa Rica",
+        "Currency": "Costa Rica Colon",
+        "Code": "CRC",
+        "Symbol": "₡",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8353.gif",
+        "Rate": 506.1232751253
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cu.gif",
+        "CountryName": "Cuba",
+        "Currency": "Cuba Peso",
+        "Code": "CUP",
+        "Symbol": "₱",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8369.gif",
+        "Rate": 23.9866164414
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cv.gif",
+        "CountryName": "Cabo Verde",
+        "Currency": "Cape Verdean escudo",
+        "Code": "CVE",
+        "Symbol": "$",
+        "SymbolImage": "",
+        "Rate": 105.7127146027
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cw.gif",
+        "CountryName": "Curacao",
+        "Currency": "Netherlands Antilles Guilder",
+        "Code": "ANG",
+        "Symbol": "ƒ",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol402.gif",
+        "Rate": 1.7980911523
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cx.gif",
+        "CountryName": "Christmas Island",
+        "Currency": "Australia Dollar",
+        "Code": "AUD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.5987354068
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cy.gif",
+        "CountryName": "Cyprus",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cz.gif",
+        "CountryName": "Czechia",
+        "Currency": "Czech Republic Koruna",
+        "Code": "CZK",
+        "Symbol": "Kč",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol75-269.gif",
+        "Rate": 24.0538169558
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/de.gif",
+        "CountryName": "Germany",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/dj.gif",
+        "CountryName": "Djibouti",
+        "Currency": "Djiboutian franc",
+        "Code": "DJF",
+        "Symbol": "Fdj",
+        "SymbolImage": "",
+        "Rate": 178.4155063007
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/dk.gif",
+        "CountryName": "Denmark",
+        "Currency": "Denmark Krone",
+        "Code": "DKK",
+        "Symbol": "kr",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol107-114.gif",
+        "Rate": 7.1542540039
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/dm.gif",
+        "CountryName": "Dominica",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2.7058388195
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/do.gif",
+        "CountryName": "Dominican Republic",
+        "Currency": "Dominican Republic Peso",
+        "Code": "DOP",
+        "Symbol": "RD$",
+        "SymbolImage": "https://www.xe.com/symbolxs-page/symbols/curSymbol82-68-36.gif",
+        "Rate": 61.8264208059
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/dz.gif",
+        "CountryName": "Algeria",
+        "Currency": "Algerian dinar",
+        "Code": "DZD",
+        "Symbol": "دج",
+        "SymbolImage": "",
+        "Rate": 134.9968249485
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ec.gif",
+        "CountryName": "Ecuador",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ee.gif",
+        "CountryName": "Estonia",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/eg.gif",
+        "CountryName": "Egypt",
+        "Currency": "Egypt Pound",
+        "Code": "EGP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 50.2246535561
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/eh.gif",
+        "CountryName": "Western Sahara",
+        "Currency": "Moroccan Dirham",
+        "Code": "MAD",
+        "Symbol": "DH",
+        "SymbolImage": "",
+        "Rate": 10.0110465188
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/er.gif",
+        "CountryName": "Eritrea",
+        "Currency": "Eritrean nakfa",
+        "Code": "ERN",
+        "Symbol": "Nkf",
+        "SymbolImage": "",
+        "Rate": 15
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/es.gif",
+        "CountryName": "Spain",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/et.gif",
+        "CountryName": "Ethiopia",
+        "Currency": "Ethiopian birr",
+        "Code": "ETB",
+        "Symbol": "ብር",
+        "SymbolImage": "",
+        "Rate": 128.4315870953
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/fi.gif",
+        "CountryName": "Finland",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/fj.gif",
+        "CountryName": "Fiji",
+        "Currency": "Fiji Dollar",
+        "Code": "FJD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2.3152732267
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/fk.gif",
+        "CountryName": "Falkland Islands",
+        "Currency": "Falkland Islands (Malvinas) Pound",
+        "Code": "FKP",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 0.8034739437
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/fm.gif",
+        "CountryName": "Micronesia",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/fo.gif",
+        "CountryName": "Faroe Islands",
+        "Currency": "Denmark Krone",
+        "Code": "DKK",
+        "Symbol": "kr",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol107-114.gif",
+        "Rate": 7.1542540039
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/fr.gif",
+        "CountryName": "France",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ga.gif",
+        "CountryName": "Gabon",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gb.gif",
+        "CountryName": "United Kingdom",
+        "Currency": "United Kingdom Pound",
+        "Code": "GBP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 0.8034739437
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gd.gif",
+        "CountryName": "Grenada",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2.7058388195
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ge.gif",
+        "CountryName": "Georgia",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gf.gif",
+        "CountryName": "French Guiana",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gg.gif",
+        "CountryName": "Guernsey",
+        "Currency": "United Kingdom Pound",
+        "Code": "GBP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 0.8034739437
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gh.gif",
+        "CountryName": "Ghana",
+        "Currency": "Ghana Cedi",
+        "Code": "GHS",
+        "Symbol": "¢",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol162.gif",
+        "Rate": 15.2318924001
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gi.gif",
+        "CountryName": "Gibraltar",
+        "Currency": "Gibraltar Pound",
+        "Code": "GIP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 0.8034739437
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gl.gif",
+        "CountryName": "Greenland",
+        "Currency": "Denmark Krone",
+        "Code": "DKK",
+        "Symbol": "kr",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol107-114.gif",
+        "Rate": 7.1542540039
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gm.gif",
+        "CountryName": "Gambia",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gn.gif",
+        "CountryName": "Guinea",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gp.gif",
+        "CountryName": "Guadeloupe",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gq.gif",
+        "CountryName": "Equatorial Guinea",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gr.gif",
+        "CountryName": "Greece",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gs.gif",
+        "CountryName": "South Georgia and the South Sandwich Islands",
+        "Currency": "United Kingdom Pound",
+        "Code": "GBP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 0.8034739437
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gt.gif",
+        "CountryName": "Guatemala",
+        "Currency": "Guatemala Quetzal",
+        "Code": "GTQ",
+        "Symbol": "Q",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol81.gif",
+        "Rate": 7.7274358422
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gu.gif",
+        "CountryName": "Guam",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gw.gif",
+        "CountryName": "Guinea-Bissau",
+        "Currency": "West African CFA franc",
+        "Code": "XOF",
+        "Symbol": "F.CFA",
+        "SymbolImage": "",
+        "Rate": 628.8473304857
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/gy.gif",
+        "CountryName": "Guyana",
+        "Currency": "Guyana Dollar",
+        "Code": "GYD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 208.6883259924
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/hk.gif",
+        "CountryName": "Hong Kong",
+        "Currency": "Hong Kong Dollar",
+        "Code": "HKD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 7.790957744
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/hm.gif",
+        "CountryName": "Heard Island and McDonald Islands",
+        "Currency": "Australia Dollar",
+        "Code": "AUD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.5987354068
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/hn.gif",
+        "CountryName": "Honduras",
+        "Currency": "Honduras Lempira",
+        "Code": "HNL",
+        "Symbol": "L",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol76.gif",
+        "Rate": 25.5313815077
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/hr.gif",
+        "CountryName": "Croatia",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ht.gif",
+        "CountryName": "Haiti",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/hu.gif",
+        "CountryName": "Hungary",
+        "Currency": "Hungary Forint",
+        "Code": "HUF",
+        "Symbol": "Ft",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol70-116.gif",
+        "Rate": 391.957223764
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/id.gif",
+        "CountryName": "Indonesia",
+        "Currency": "Indonesia Rupiah",
+        "Code": "IDR",
+        "Symbol": "Rp",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol82-112.gif",
+        "Rate": 16220.2858130258
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ie.gif",
+        "CountryName": "Ireland",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/il.gif",
+        "CountryName": "Israel",
+        "Currency": "Israel Shekel",
+        "Code": "ILS",
+        "Symbol": "₪",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8362.gif",
+        "Rate": 3.6079768212
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/im.gif",
+        "CountryName": "Isle of Man",
+        "Currency": "United Kingdom Pound",
+        "Code": "GBP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 0.8034739437
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/in.gif",
+        "CountryName": "India",
+        "Currency": "India Rupee",
+        "Code": "INR",
+        "Symbol": "₹",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbolINR.gif",
+        "Rate": 86.5669713798
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/io.gif",
+        "CountryName": "British Indian Ocean Territory",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/iq.gif",
+        "CountryName": "Iraq",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ir.gif",
+        "CountryName": "Iran",
+        "Currency": "Iran Rial",
+        "Code": "IRR",
+        "Symbol": "﷼",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol65020.gif",
+        "Rate": 42086.1062373084
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/is.gif",
+        "CountryName": "Iceland",
+        "Currency": "Iceland Krona",
+        "Code": "ISK",
+        "Symbol": "kr",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol107-114.gif",
+        "Rate": 140.261399539
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/it.gif",
+        "CountryName": "Italy",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/je.gif",
+        "CountryName": "Jersey",
+        "Currency": "United Kingdom Pound",
+        "Code": "GBP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 0.8034739437
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/jm.gif",
+        "CountryName": "Jamaica",
+        "Currency": "Jamaica Dollar",
+        "Code": "JMD",
+        "Symbol": "J$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol74-36.gif",
+        "Rate": 157.2780759052
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/jo.gif",
+        "CountryName": "Jordan",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/jp.gif",
+        "CountryName": "Japan",
+        "Currency": "Japan Yen",
+        "Code": "JPY",
+        "Symbol": "¥",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol165.gif",
+        "Rate": 155.4404834129
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ke.gif",
+        "CountryName": "Kenya",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/kg.gif",
+        "CountryName": "Kyrgyzstan",
+        "Currency": "Kyrgyzstan Som",
+        "Code": "KGS",
+        "Symbol": "лв",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol1083-1074.gif",
+        "Rate": 87.4498800436
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/kh.gif",
+        "CountryName": "Cambodia",
+        "Currency": "Cambodia Riel",
+        "Code": "KHR",
+        "Symbol": "៛",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol6107.gif",
+        "Rate": 4037.8501508566
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ki.gif",
+        "CountryName": "Kiribati",
+        "Currency": "Australia Dollar",
+        "Code": "AUD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.5987354068
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/km.gif",
+        "CountryName": "Comoros",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/kn.gif",
+        "CountryName": "Saint Kitts and Nevis",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2.7058388195
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/kp.gif",
+        "CountryName": "North Korea",
+        "Currency": "Korea (North) Won",
+        "Code": "KPW",
+        "Symbol": "₩",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8361.gif",
+        "Rate": 900.0159348869
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/kr.gif",
+        "CountryName": "South Korea",
+        "Currency": "Korea (South) Won",
+        "Code": "KRW",
+        "Symbol": "₩",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8361.gif",
+        "Rate": 1446.511331266
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/xk.gif",
+        "CountryName": "Kosovo",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/kw.gif",
+        "CountryName": "Kuwait",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ky.gif",
+        "CountryName": "Cayman Islands",
+        "Currency": "Cayman Islands Dollar",
+        "Code": "KYD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 0.8265732581
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/kz.gif",
+        "CountryName": "Kazakhstan",
+        "Currency": "Kazakhstan Tenge",
+        "Code": "KZT",
+        "Symbol": "лв",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol1083-1074.gif",
+        "Rate": 517.1547850383
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/la.gif",
+        "CountryName": "Laos",
+        "Currency": "Laos Kip",
+        "Code": "LAK",
+        "Symbol": "₭",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8365.gif",
+        "Rate": 21888.0475044559
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/lb.gif",
+        "CountryName": "Lebanon",
+        "Currency": "Lebanon Pound",
+        "Code": "LBP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 89822.7198594939
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/lc.gif",
+        "CountryName": "Saint Lucia",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2.7058388195
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/li.gif",
+        "CountryName": "Liechtenstein",
+        "Currency": "Switzerland Franc",
+        "Code": "CHF",
+        "Symbol": "CHF",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol67-72-70.gif",
+        "Rate": 0.9060066547
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/lk.gif",
+        "CountryName": "Sri Lanka",
+        "Currency": "Sri Lanka Rupee",
+        "Code": "LKR",
+        "Symbol": "₨",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8360.gif",
+        "Rate": 297.6181260489
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/lr.gif",
+        "CountryName": "Liberia",
+        "Currency": "Liberia Dollar",
+        "Code": "LRD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 197.4223334182
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ls.gif",
+        "CountryName": "Lesotho",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/lt.gif",
+        "CountryName": "Lithuania",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/lu.gif",
+        "CountryName": "Luxembourg",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/lv.gif",
+        "CountryName": "Latvia",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ly.gif",
+        "CountryName": "Libya",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ma.gif",
+        "CountryName": "Morocco",
+        "Currency": "Moroccan Dirham",
+        "Code": "MAD",
+        "Symbol": "DH",
+        "SymbolImage": "",
+        "Rate": 10.0110465188
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mc.gif",
+        "CountryName": "Monaco",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/md.gif",
+        "CountryName": "Moldova",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/me.gif",
+        "CountryName": "Montenegro",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mf.gif",
+        "CountryName": "Saint Martin",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mg.gif",
+        "CountryName": "Madagascar",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mh.gif",
+        "CountryName": "Marshall Islands",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mk.gif",
+        "CountryName": "North Macedonia",
+        "Currency": "Macedonia Denar",
+        "Code": "MKD",
+        "Symbol": "ден",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol1076-1077-1085.gif",
+        "Rate": 58.9285485898
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ml.gif",
+        "CountryName": "Mali",
+        "Currency": "West African CFA franc",
+        "Code": "XOF",
+        "Symbol": "F.CFA",
+        "SymbolImage": "",
+        "Rate": 628.8473304857
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mm.gif",
+        "CountryName": "Myanmar",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mn.gif",
+        "CountryName": "Mongolia",
+        "Currency": "Mongolia Tughrik",
+        "Code": "MNT",
+        "Symbol": "₮",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8366.gif",
+        "Rate": 3446.6846894613
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mo.gif",
+        "CountryName": "Macao",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mp.gif",
+        "CountryName": "Northern Mariana Islands",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mq.gif",
+        "CountryName": "Martinique",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mr.gif",
+        "CountryName": "Mauritania",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ms.gif",
+        "CountryName": "Montserrat",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2.7058388195
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mt.gif",
+        "CountryName": "Malta",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mu.gif",
+        "CountryName": "Mauritius",
+        "Currency": "Mauritius Rupee",
+        "Code": "MUR",
+        "Symbol": "₨",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8360.gif",
+        "Rate": 46.3667201769
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mv.gif",
+        "CountryName": "Maldives",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mw.gif",
+        "CountryName": "Malawi",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mx.gif",
+        "CountryName": "Mexico",
+        "Currency": "Mexico Peso",
+        "Code": "MXN",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 20.6748803869
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/my.gif",
+        "CountryName": "Malaysia",
+        "Currency": "Malaysia Ringgit",
+        "Code": "MYR",
+        "Symbol": "RM",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol82-77.gif",
+        "Rate": 4.3912413661
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/mz.gif",
+        "CountryName": "Mozambique",
+        "Currency": "Mozambique Metical",
+        "Code": "MZN",
+        "Symbol": "MT",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol77-84.gif",
+        "Rate": 63.8947138174
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/na.gif",
+        "CountryName": "Namibia",
+        "Currency": "Namibia Dollar",
+        "Code": "NAD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 18.6830260634
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/nc.gif",
+        "CountryName": "New Caledonia",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ne.gif",
+        "CountryName": "Niger",
+        "Currency": "West African CFA franc",
+        "Code": "XOF",
+        "Symbol": "F.CFA",
+        "SymbolImage": "",
+        "Rate": 628.8473304857
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/nf.gif",
+        "CountryName": "Norfolk Island",
+        "Currency": "Australia Dollar",
+        "Code": "AUD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.5987354068
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ng.gif",
+        "CountryName": "Nigeria",
+        "Currency": "Nigeria Naira",
+        "Code": "NGN",
+        "Symbol": "₦",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8358.gif",
+        "Rate": 1532.0417637671
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ni.gif",
+        "CountryName": "Nicaragua",
+        "Currency": "Nicaragua Cordoba Symbol",
+        "Code": "NIO",
+        "Symbol": "C$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol67-36.gif",
+        "Rate": 36.8685831897
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/nl.gif",
+        "CountryName": "The Netherlands",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/no.gif",
+        "CountryName": "Norway",
+        "Currency": "Norway Krone",
+        "Code": "NOK",
+        "Symbol": "kr",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol107-114.gif",
+        "Rate": 11.2783937769
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/np.gif",
+        "CountryName": "Nepal",
+        "Currency": "Nepal Rupee",
+        "Code": "NPR",
+        "Symbol": "₨",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8360.gif",
+        "Rate": 138.5720794362
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/nr.gif",
+        "CountryName": "Nauru",
+        "Currency": "Australia Dollar",
+        "Code": "AUD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.5987354068
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/nu.gif",
+        "CountryName": "Niue",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.7662862293
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/nz.gif",
+        "CountryName": "New Zealand",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.7662862293
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/om.gif",
+        "CountryName": "Oman",
+        "Currency": "Oman Rial",
+        "Code": "OMR",
+        "Symbol": "﷼",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol65020.gif",
+        "Rate": 0.3849993104
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pa.gif",
+        "CountryName": "Panama",
+        "Currency": "Panama Balboa",
+        "Code": "PAB",
+        "Symbol": "B/.",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol66-47-46.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pe.gif",
+        "CountryName": "Peru",
+        "Currency": "Peru Sol",
+        "Code": "PEN",
+        "Symbol": "S/.",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol83-47-46.gif",
+        "Rate": 3.7411834197
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pf.gif",
+        "CountryName": "French Polynesia",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pg.gif",
+        "CountryName": "Papua New Guinea",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ph.gif",
+        "CountryName": "Philippines",
+        "Currency": "Philippines Peso",
+        "Code": "PHP",
+        "Symbol": "₱",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8369.gif",
+        "Rate": 58.5136728145
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pk.gif",
+        "CountryName": "Pakistan",
+        "Currency": "Pakistan Rupee",
+        "Code": "PKR",
+        "Symbol": "₨",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8360.gif",
+        "Rate": 278.6359699316
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pl.gif",
+        "CountryName": "Poland",
+        "Currency": "Poland Zloty",
+        "Code": "PLN",
+        "Symbol": "zł",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol122-322.gif",
+        "Rate": 4.0329681057
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pm.gif",
+        "CountryName": "Saint Pierre and Miquelon",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pn.gif",
+        "CountryName": "Pitcairn",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.7662862293
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pr.gif",
+        "CountryName": "Puerto Rico",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ps.gif",
+        "CountryName": "Palestinian Territory",
+        "Currency": "Israel Shekel",
+        "Code": "ILS",
+        "Symbol": "₪",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8362.gif",
+        "Rate": 3.6079768212
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pt.gif",
+        "CountryName": "Portugal",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/pw.gif",
+        "CountryName": "Palau",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/py.gif",
+        "CountryName": "Paraguay",
+        "Currency": "Paraguay Guarani",
+        "Code": "PYG",
+        "Symbol": "Gs",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol71-115.gif",
+        "Rate": 7911.302607955
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/qa.gif",
+        "CountryName": "Qatar",
+        "Currency": "Qatar Riyal",
+        "Code": "QAR",
+        "Symbol": "﷼",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol65020.gif",
+        "Rate": 3.64
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/re.gif",
+        "CountryName": "Reunion",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ro.gif",
+        "CountryName": "Romania",
+        "Currency": "Romania Leu",
+        "Code": "RON",
+        "Symbol": "lei",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol108-101-105.gif",
+        "Rate": 4.7694032434
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/rs.gif",
+        "CountryName": "Serbia",
+        "Currency": "Serbia Dinar",
+        "Code": "RSD",
+        "Symbol": "Дин.",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol1044-1080-1085-46.gif",
+        "Rate": 112.2635843528
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ru.gif",
+        "CountryName": "Russia",
+        "Currency": "Russia Ruble",
+        "Code": "RUB",
+        "Symbol": "₽",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8381.gif",
+        "Rate": 97.5287262625
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/rw.gif",
+        "CountryName": "Rwanda",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sa.gif",
+        "CountryName": "Saudi Arabia",
+        "Currency": "Saudi Arabia Riyal",
+        "Code": "SAR",
+        "Symbol": "﷼",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol65020.gif",
+        "Rate": 3.75
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sb.gif",
+        "CountryName": "Solomon Islands",
+        "Currency": "Solomon Islands Dollar",
+        "Code": "SBD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 8.4926878975
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sc.gif",
+        "CountryName": "Seychelles",
+        "Currency": "Seychelles Rupee",
+        "Code": "SCR",
+        "Symbol": "₨",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8360.gif",
+        "Rate": 14.4334393163
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sd.gif",
+        "CountryName": "Sudan",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ss.gif",
+        "CountryName": "South Sudan",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/se.gif",
+        "CountryName": "Sweden",
+        "Currency": "Sweden Krona",
+        "Code": "SEK",
+        "Symbol": "kr",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol107-114.gif",
+        "Rate": 10.9967974323
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sg.gif",
+        "CountryName": "Singapore",
+        "Currency": "Singapore Dollar",
+        "Code": "SGD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.3518262841
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sh.gif",
+        "CountryName": "Saint Helena",
+        "Currency": "Saint Helena Pound",
+        "Code": "SHP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 0.8034739437
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/si.gif",
+        "CountryName": "Slovenia",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sj.gif",
+        "CountryName": "Svalbard and Jan Mayen",
+        "Currency": "Norway Krone",
+        "Code": "NOK",
+        "Symbol": "kr",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol107-114.gif",
+        "Rate": 11.2783937769
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sk.gif",
+        "CountryName": "Slovakia",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sl.gif",
+        "CountryName": "Sierra Leone",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sm.gif",
+        "CountryName": "San Marino",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sn.gif",
+        "CountryName": "Senegal",
+        "Currency": "West African CFA franc",
+        "Code": "XOF",
+        "Symbol": "F.CFA",
+        "SymbolImage": "",
+        "Rate": 628.8473304857
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/so.gif",
+        "CountryName": "Somalia",
+        "Currency": "Somalia Shilling",
+        "Code": "SOS",
+        "Symbol": "S",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol83.gif",
+        "Rate": 570.5350631169
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sr.gif",
+        "CountryName": "Suriname",
+        "Currency": "Suriname Dollar",
+        "Code": "SRD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 35.1844877107
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/st.gif",
+        "CountryName": "Sao Tome and Principe",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sv.gif",
+        "CountryName": "El Salvador",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sx.gif",
+        "CountryName": "Sint Maarten",
+        "Currency": "Netherlands Antilles Guilder",
+        "Code": "ANG",
+        "Symbol": "ƒ",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol402.gif",
+        "Rate": 1.7980911523
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sy.gif",
+        "CountryName": "Syria",
+        "Currency": "Syria Pound",
+        "Code": "SYP",
+        "Symbol": "£",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol163.gif",
+        "Rate": 13011.1680847796
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/sz.gif",
+        "CountryName": "Eswatini",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tc.gif",
+        "CountryName": "Turks and Caicos Islands",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/td.gif",
+        "CountryName": "Chad",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tf.gif",
+        "CountryName": "French Southern Territories",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tg.gif",
+        "CountryName": "Togo",
+        "Currency": "West African CFA franc",
+        "Code": "XOF",
+        "Symbol": "F.CFA",
+        "SymbolImage": "",
+        "Rate": 628.8473304857
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/th.gif",
+        "CountryName": "Thailand",
+        "Currency": "Thailand Baht",
+        "Code": "THB",
+        "Symbol": "฿",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol3647.gif",
+        "Rate": 33.8908245396
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tj.gif",
+        "CountryName": "Tajikistan",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tk.gif",
+        "CountryName": "Tokelau",
+        "Currency": "New Zealand Dollar",
+        "Code": "NZD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.7662862293
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tl.gif",
+        "CountryName": "Timor Leste",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tm.gif",
+        "CountryName": "Turkmenistan",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tn.gif",
+        "CountryName": "Tunisia",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/to.gif",
+        "CountryName": "Tonga",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tr.gif",
+        "CountryName": "Turkey",
+        "Currency": "Turkey Lira",
+        "Code": "TRY",
+        "Symbol": "₺",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbolTRY.gif",
+        "Rate": 35.7685739899
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tt.gif",
+        "CountryName": "Trinidad and Tobago",
+        "Currency": "Trinidad and Tobago Dollar",
+        "Code": "TTD",
+        "Symbol": "TT$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol84-84-36.gif",
+        "Rate": 6.7920356846
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tv.gif",
+        "CountryName": "Tuvalu",
+        "Currency": "Australia Dollar",
+        "Code": "AUD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1.5987354068
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tw.gif",
+        "CountryName": "Taiwan",
+        "Currency": "Taiwan New Dollar",
+        "Code": "TWD",
+        "Symbol": "NT$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol78-84-36.gif",
+        "Rate": 32.9339309033
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/tz.gif",
+        "CountryName": "Tanzania",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ua.gif",
+        "CountryName": "Ukraine",
+        "Currency": "Ukraine Hryvnia",
+        "Code": "UAH",
+        "Symbol": "₴",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8372.gif",
+        "Rate": 42.084659216
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ug.gif",
+        "CountryName": "Uganda",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/um.gif",
+        "CountryName": "United States Minor Outlying Islands",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/us.gif",
+        "CountryName": "United States",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/uy.gif",
+        "CountryName": "Uruguay",
+        "Currency": "Uruguay Peso",
+        "Code": "UYU",
+        "Symbol": "$U",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36-85.gif",
+        "Rate": 43.9314260328
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/uz.gif",
+        "CountryName": "Uzbekistan",
+        "Currency": "Uzbekistan Som",
+        "Code": "UZS",
+        "Symbol": "лв",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol1083-1074.gif",
+        "Rate": 12964.8506727077
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/va.gif",
+        "CountryName": "Vatican",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/vc.gif",
+        "CountryName": "Saint Vincent and the Grenadines",
+        "Currency": "East Caribbean Dollar",
+        "Code": "XCD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 2.7058388195
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ve.gif",
+        "CountryName": "Venezuela",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/vg.gif",
+        "CountryName": "British Virgin Islands",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/vi.gif",
+        "CountryName": "U.S. Virgin Islands",
+        "Currency": "United States Dollar",
+        "Code": "USD",
+        "Symbol": "$",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol36.gif",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/vn.gif",
+        "CountryName": "Vietnam",
+        "Currency": "Viet Nam Dong",
+        "Code": "VND",
+        "Symbol": "₫",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8363.gif",
+        "Rate": 25086.4496812636
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/vu.gif",
+        "CountryName": "Vanuatu",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/wf.gif",
+        "CountryName": "Wallis and Futuna",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ws.gif",
+        "CountryName": "Samoa",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/ye.gif",
+        "CountryName": "Yemen",
+        "Currency": "Yemen Rial",
+        "Code": "YER",
+        "Symbol": "﷼",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol65020.gif",
+        "Rate": 249.0616912958
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/yt.gif",
+        "CountryName": "Mayotte",
+        "Currency": "Euro Member Countries",
+        "Code": "EUR",
+        "Symbol": "€",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol8364.gif",
+        "Rate": 0.9586715752
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/za.gif",
+        "CountryName": "South Africa",
+        "Currency": "South Africa Rand",
+        "Code": "ZAR",
+        "Symbol": "R",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol82.gif",
+        "Rate": 18.6830260634
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/zm.gif",
+        "CountryName": "Zambia",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/zw.gif",
+        "CountryName": "Zimbabwe",
+        "Currency": "",
+        "Code": "",
+        "Symbol": "",
+        "SymbolImage": "",
+        "Rate": 1
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/cs.gif",
+        "CountryName": "Serbia and Montenegro",
+        "Currency": "Serbia Dinar",
+        "Code": "RSD",
+        "Symbol": "Дин.",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol1044-1080-1085-46.gif",
+        "Rate": 112.2635843528
+    },
+    {
+        "Flag": "https://www.geonames.org/flags/x/an.gif",
+        "CountryName": "Netherlands Antilles",
+        "Currency": "Netherlands Antilles Guilder",
+        "Code": "ANG",
+        "Symbol": "ƒ",
+        "SymbolImage": "https://www.xe.com/symbols-page/symbols/curSymbol402.gif",
+        "Rate": 1.7980911523
+    }
+]
