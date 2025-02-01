@@ -1,7 +1,8 @@
-import { FC } from 'react'
+import React from 'react'
 import Select from './components/Select'
 
-const App: FC = () => {
+
+function App() {
   return (
     <div>
       <Select />
